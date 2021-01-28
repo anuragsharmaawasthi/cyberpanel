@@ -1,3 +1,5 @@
+Forking from Author for educational purposes only. 
+
 # CyberPanel
 
 Webhosting control panel that uses OpenLiteSpeed as web server.
